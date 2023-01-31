@@ -1,6 +1,7 @@
 # Superstore_Profit_Loss
 ###Required Tools:
-R 
+
+R studio
 
 Adobe Illistrator
 
