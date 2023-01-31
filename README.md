@@ -1,4 +1,13 @@
 # Superstore_Profit_Loss
+###Required Tools:
+R 
+
+Adobe Illistrator
+
+Acrobat Reader DC or Acrobat DC
+
+Excel
+
 ### Project Goal
 A data set was obtained and an overarching message needed to be conveyed using graphs in a poster display. This was 
 important to use appropriate color schemes and spacing along with designing it to catch the eye 
