@@ -11,11 +11,9 @@ Acrobat Reader DC or Acrobat DC
 Excel
 
 ### Project Goal
-A data set was obtained and an overarching message needed to be conveyed using graphs in a poster display. This was 
-important to use appropriate color schemes and spacing along with designing it to catch the eye 
-in particular sections. 
+A data set was obtained, and an overarching message needed to be conveyed using graphs in a poster display. This was important to use appropriate color schemes and spacing along with designing it to catch the eye in particular sections. 
 ### Data
-The data set was obtained from kaggle about Superstore, a chain of stores 
+The data set was obtained from Kaggle about Superstore, a chain of stores 
 that sell items such as electronics, furniture, and office supplies. There were areas where the 
 business was losing money. These areas were identified and using visualizations, the where, 
 what, and why of profit loss was shown. The data was grouped and transformed in R using 
